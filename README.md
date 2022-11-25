@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Keshav Raj Pandey.
+- 👀 I’m interested in Mathematics and Data Science.
+- 🌱 I’m currently learning Dta Science.
+- 📫 How to reach me: pandey_keshav@icloud.com
